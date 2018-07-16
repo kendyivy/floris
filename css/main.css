@@ -1,0 +1,156 @@
+.main{
+  width:800px;
+  height: 500px;
+  border: 2px solid #312f30;
+  margin:0px auto;
+  position:relative;
+  top:30px;
+}
+.box{
+  width:800px;
+  height: 70px;
+  border: 2px solid #292728;
+
+}
+.fa-bookmark{
+  position: relative;
+  left:10px;
+  color:#bda05a;
+}
+h1{
+  position:relative;
+  font-size: 5px;
+  bottom: 70px;
+  left: 10px;
+  color: white; 
+}
+h2{
+  font-size: 20px;
+  color: #8a8b8f;
+  position: relative;
+  bottom:120px;
+  left: 70px;
+}
+h3{
+  color:black;
+  position: relative;
+  left:360px;
+  bottom:170px;
+  font-size: 30px;
+
+}
+h4{
+  color:black;
+  position: relative;
+  left: 600px;
+  bottom:220px;
+  font-weight: lighter;
+}
+h5{
+  color: black;
+  position: relative;
+  left: 670px;
+  bottom:260px;
+  font-weight: lighter;
+}
+.black{
+  width: 800px;
+  height: 400px;
+  background-color: #312f30;
+  position: relative;
+  bottom: 25px;
+
+}
+.one{
+  width:267px;
+  height: 250px;
+  background-color: #3d3938;
+  position: relative;
+  top:20px;
+  left: 20px;
+  transform: skewY(2deg);
+
+
+}
+h6{
+  color: white;
+  font-weight: lighter;
+  position: relative;
+  left: 100px;
+  top: 10px;
+}
+.two{
+  width:267px;
+  height: 250px;
+  background-color: #3d3938;
+  position: relative;
+  left:320px;
+  bottom: 235px;
+  transform: skewY(2deg);
+}
+.two p{
+  color: white;
+  position: relative;
+  left: 100px;
+  top:10px;
+}
+.in{
+  width: 265px;
+  height: 210px;
+  background-color: #988982;
+
+}
+.in p{
+  position: relative;
+  top:30px;
+  font-size: 20px;
+  left: 50px;
+
+}
+.in img{
+  width: 100px;
+  position:relative;
+  left: 60px;
+  bottom: 15px;
+  opacity: 0.7;
+}
+.outer img{
+  position: relative;
+  bottom: 50px;
+}
+.outer p{
+  position: relative;
+  top: -120px;
+  left:70px;
+  font-family: 'Lobster', cursive;
+
+}
+.three{
+  width:163px;
+  height: 250px;
+  background-color: #3d3938;
+  position: relative;
+  left:620px;
+  bottom: 490px;
+  transform: skewY(2deg);
+
+}
+.three p{
+  color: white;
+  position:relative;
+  left: 20px;
+  top: 10px;
+
+}
+.three img{
+  width: 155px;
+  height: 150px;
+
+}
+.four p{
+  color: white;
+  font-family: 'Lobster', cursive;
+  position: relative;
+  left:5px;
+
+}
